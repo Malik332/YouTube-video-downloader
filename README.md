@@ -10,7 +10,7 @@
 apt update
 
 apt install curl
-curl https://raw.githubusercontent.com/SarfarazRLZ/Termux-For-Youtube/master/youtube_settings.sh -o youtube.sh
+curl https://raw.githubusercontent.com/Malik332/YouTube-video-downloader/main/youtube_settings.sh -o youtube.sh
  -o youtube.sh
 
 chmod +x youtube.sh
